@@ -1,0 +1,5 @@
+JS = https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+CSS = https://developer.mozilla.org/pt-BR/docs/Web/CSS
+HTML = https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5
+SASS = https://sass-lang.com/documentation
+Bootsrap = https://getbootstrap.com.br/docs/4.1/getting-started/introduction/

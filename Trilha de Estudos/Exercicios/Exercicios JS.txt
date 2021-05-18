@@ -1,0 +1,42 @@
+1 – Calcule a média de diversas notas digitadas pelo usuário.
+
+2 – Faça um programa que entre com cinco números e imprima o quadrado de cada número.
+
+3 – Peça ao usuário para digitar 5 números em uma caixa de texto. Verifique qual é o maior número e exiba-o.
+
+4 – Peça ao usuário para digitar várias idades. Exiba quantas pessoas são maior de idade (18 anos) e quantas são menores.
+
+5 – Crie um programa que entre com os dados de altura e sexo de 5 pessoas. 
+Imprima na tela quantas pessoas são do sexo masculino e quantas pessoas são do sexo feminino.
+Mostre também qual é a maior altura e se essa altura é de um homem ou uma mulher.
+
+6 – Peça ao usuário para digitar vários nomes. Exiba na tela todos os nomes digitados, 
+porém de maneira invertida (do último para o primeiro).
+
+7 – Peça para o usuário digitar uma data. Exiba separadamente o dia, o mês e o ano. 
+(Obs.: não necessita de laço de repetição)
+
+8 - https://www.mundojs.com.br/category/exercicios/
+
+9 - https://www.passeidireto.com/arquivo/48625267/exercicios-javascript-fmu
+
+01. Crie uma aplicação WEB na qual o visitante insere faz um login, 
+ele deve então inserir um texto para autenticar o usuário e outro para senha. 
+Se o usuário digitado for igual “sergio” e a senha for igual a “lenda”, mostre uma mensagem em um parágrafo com o texto “Seja Bem vindo” na cor verde, caso contrário, mostra e mensagem “Login incorreto” na cor vermelha. Dica: Você pode usar operadores de conjunção &&.
+
+02. Crie uma página para uma loja virtual. A página deve conter a descrição do produto “Boneco do Rodrigo” 
+que custa R$ 75,00. O usuário deve então informar em quantas parcelas ele deseja pagar e a 
+página web deve calcular o valor de cada parcela.
+
+03. Crie uma aplicação web para um boletim escolar aonde o professor deve digitar o nome do 
+aluno e digitar 3 notas de 0 a 10 para ele. A aplicação web deve tirar a média das menções e 
+exibir uma mensagem de acordo com os seguintes critérios;
+
+a) Média igual ou maior que 7; exibir a mensagem em verde de “APROVADO”
+b) Média entre 5 e 6,9; exibir a mensagem em amarelo de “RECUPERAÇÃO”
+c) Média menor que 5; exibir a mensagem em amarelo de “REPROVADO PELO RODRIGO”
+
+4 - https://www.spoj.com/problems/classical/
+
+5 - https://www.w3schools.com/js/js_exercises.asp
+
